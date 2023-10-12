@@ -20,3 +20,5 @@ console.log(typeof 8);
 console.log(typeof "name");
 console.log(typeof true);
 console.log(typeof "true");
+console.log(typeof null);
+console.log(typeof undefined);
