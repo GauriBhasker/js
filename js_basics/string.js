@@ -21,3 +21,6 @@ console.log(myname.split('m'))
 
 let str = "bam bam"
 console.log(str.replace('b','r'));
+
+console.log(str.includes('a'))
+console.log(str.includes('u'))
