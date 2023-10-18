@@ -104,3 +104,13 @@ console.log(usernames[3])
 
 console.log(Object.keys(usernames));
 console.log(Object.entries(usernames));
+
+const course = {
+    name: "Learn javascript",
+    price: "2000"
+}
+
+const {price:p} = course
+
+// console.log(price);
+console.log(p);
