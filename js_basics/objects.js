@@ -38,3 +38,13 @@ user2.greet = function(){
 }
 
 console.log(user2.greet());
+
+const obj = new Object()
+obj.name = "Reena"
+
+console.log(obj);
+
+const newuser = {
+    name: "Arunita",
+    age: 34,
+}
